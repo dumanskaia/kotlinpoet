@@ -3,6 +3,8 @@ Change Log
 
 ## Unreleased
 
+ * New: Kotlin 2.4.21.
+ * New: KSP 2.3.13.
  * Fix: Carriage returns are no longer lost in `%S` and `%P` string literals. (#2380)
  * Fix: `Class.asClassName()` no longer drops the package slot of a class in the default package. (#2382)
 
