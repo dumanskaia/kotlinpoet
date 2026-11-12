@@ -3,6 +3,8 @@ KotlinPoet
 
 `KotlinPoet` is a Kotlin and Java API for generating `.kt` source files.
 
+> Why did the developer use KotlinPoet? Because writing code that writes code is the only way to meet a deadline that writes itself.
+
 ### [square.github.io/kotlinpoet](https://square.github.io/kotlinpoet)
 
 License
